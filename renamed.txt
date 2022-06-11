@@ -1,0 +1,12 @@
+this is new file 
+file name is new.txt
+this is reanamed file
+
+now change the file data for later commit
+this data is ignored 
+
+this data is
+
+new data 
+
+this is new data but not commited

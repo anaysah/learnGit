@@ -43,3 +43,6 @@ How to see changes and commit
 	git log --pretty=format:"<format>" // this will format the data and display as your requirements
 	git commit --amend // to redit the arealdy commit
 	git commit --amend --no-edit // to redit without changing any thing, used for add files
+
+How to get back all data of file
+	git checkout -- <filename>
