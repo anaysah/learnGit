@@ -24,3 +24,6 @@ showing changes between commits
 	git diff // to compare stage area with working area
 	git diff --staged // to compare stage are with previous commit
 
+How to skip stage area
+	git commit -a -m "comment"
+
