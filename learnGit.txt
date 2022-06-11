@@ -14,4 +14,9 @@ git add . //to add all files
 to ignore files 
 	create a file named <.gitignore>
 	add all the file name in <.gitignore>
+	you can also ignore directory by adding its name in <.gitignore>
+	
+	dir/ for all folder with name dir
+	/dir/ for only outer
+	*.txt for all txt files
 
