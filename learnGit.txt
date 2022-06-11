@@ -20,3 +20,7 @@ to ignore files
 	/dir/ for only outer
 	*.txt for all txt files
 
+showing changes between commits
+	git diff // to compare stage area with working area
+	git diff --staged // to compare stage are with previous commit
+
