@@ -46,3 +46,11 @@ How to see changes and commit
 
 How to get back all data of file
 	git checkout -- <filename>
+
+How to get back to previous commit // all modified and changes will be earased
+	git checkout -f
+
+How to unstage the file
+	git restore --staged <filename>
+
+
