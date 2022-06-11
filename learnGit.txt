@@ -1,0 +1,10 @@
+git
+git config --global user.name "ajay"
+git config --global user.email "email@email.com"
+git status
+git config --list
+git --a     //add all files in stage area and display in green color 
+git add <filename> // you can add any file to stage area
+git commit -m <"comment"> //you can commit all the files of stage area
+git log // you can get all commit and branches
+rm -rf .git
