@@ -34,3 +34,12 @@ How to remove and rename
 How to remove file for tracking area
 	git rm --cached <filename> // this will stop tracking this file
 
+How to see changes and commit
+	git log -p // this will show all commits in details
+	git log -p -2 // this will show only 2 commits
+	git log -stat // this will show commit in summary
+	git log --pretty=oneline // all details in oneliner
+	git log --pretty=full // more info but in readeable look
+	git log --pretty=format:"<format>" // this will format the data and display as your requirements
+	git commit --amend // to redit the arealdy commit
+	git commit --amend --no-edit // to redit without changing any thing, used for add files
