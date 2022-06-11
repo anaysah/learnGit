@@ -27,3 +27,7 @@ showing changes between commits
 How to skip stage area
 	git commit -a -m "comment"
 
+How to remove and rename
+	git rm <filename> // to remove the file
+	git mv <oldname> <newname>  // to rename the files
+
