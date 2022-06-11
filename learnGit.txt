@@ -31,3 +31,6 @@ How to remove and rename
 	git rm <filename> // to remove the file
 	git mv <oldname> <newname>  // to rename the files
 
+How to remove file for tracking area
+	git rm --cached <filename> // this will stop tracking this file
+
