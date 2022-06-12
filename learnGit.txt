@@ -53,4 +53,5 @@ How to get back to previous commit // all modified and changes will be earased
 How to unstage the file
 	git restore --staged <filename>
 
-
+git remote // to print remote name
+git remote add origin <link> // to name the remote
