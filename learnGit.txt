@@ -57,3 +57,5 @@ git remote // to print remote name
 git remote add origin <link> // to name the remote
 
 git push -u origin main // to push
+
+git remote rm <name> // to to remove the remote

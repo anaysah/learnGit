@@ -13,6 +13,10 @@ this is new data but not commited
 
 this is new data
 
+<<<<<<< HEAD
 this is new data to be removed later on
 
 this is new data for testing athentication
+=======
+this is new data to be removed later on
+>>>>>>> b3de6171901c85e7abdff92ceaf1dab4395a819b
