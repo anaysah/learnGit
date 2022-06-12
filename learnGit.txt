@@ -55,3 +55,5 @@ How to unstage the file
 
 git remote // to print remote name
 git remote add origin <link> // to name the remote
+
+git push -u origin main // to push
